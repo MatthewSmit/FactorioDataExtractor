@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FactorioDataExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\""
+    }
+  }
+}
