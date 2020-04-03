@@ -10,4 +10,4 @@ https://github.com/pkulchenko/serpent
 https://github.com/jagt/pprint.lua
 
 Usage:
-FactorioDataExtractor <factorio directory> <factorio mod directory>?
+FactorioDataExtractor "factorio directory" "factorio mod directory"?
